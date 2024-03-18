@@ -1,6 +1,6 @@
 <?php
 $host="localhost";
-$dbname='chinh';
+$dbname='photozone_data';
 $user="root";
 $pass="";
 try {
